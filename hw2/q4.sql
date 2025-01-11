@@ -1,0 +1,4 @@
+SELECT * FROM news
+FETCH FIRST 5 ROWS ONLY;
+
+ALTER TABLE news ADD COLUMN category VARCHAR(50) DEFAULT 'technology';
