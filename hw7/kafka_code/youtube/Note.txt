@@ -1,0 +1,2 @@
+- Add your JSON file to this folder.
+- The code assumes your json file is named cmu-class.json
